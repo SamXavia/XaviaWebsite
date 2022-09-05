@@ -1,6 +1,7 @@
 #remove html file extension https://playprofile.net/fuzecraft.html
-# to https://playprofile.html
+# to https://playprofile.net
 RewriteEngine On
-RewriteCond %{REQUEST_FILENAME} !-d
 RewriteCond %{REQUEST_FILENAME} !-f
-RewriteRule ^([^\.]+)$ $1.html [NC, L]
+RewriteCond %{REQUEST_FILENAME} !-d
+RewriteCond &{REQUEST_URI} \.html$
+RewriteRule ^(.*)\.html$ /$1 [R=301,L]
