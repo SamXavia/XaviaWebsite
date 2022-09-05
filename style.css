@@ -25,14 +25,14 @@
 
 /* Bob */
 .bob {
-  width:100pt;
-  height:100pt;
+  width:7.5vw;
+  height:7.5vw;
 }
 
 /* Nav */
 .nav {
   font-family:monospace;
-  font-size:20pt
+  font-size:2vw
 }
 
 /* One */
@@ -57,15 +57,15 @@
   display: flex;
   align-items: center;
   width: 100%;
-  height: 200px;
+  height: 21vw;
   background-color: ;
 }
   /* Sub-Boxes of Two  */
   .two > div {
     width: 80%;
-    height: 220px;
+    height: 21vw;
     margin: 10%;
-    border-radius: 15px;
+    border-radius: 1vw;
     background-color: #272727;
   }
 
