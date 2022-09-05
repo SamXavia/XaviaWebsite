@@ -29,6 +29,12 @@
   height:100pt;
 }
 
+/* Nav */
+.nav {
+  font-family:monospace;
+  font-size:20pt
+}
+
 /* One */
 .one {
   display: flex;
