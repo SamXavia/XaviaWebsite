@@ -25,8 +25,8 @@
 
 /* Bob */
 .bob {
-  width:7.5vw;
-  height:7.5vw;
+  width:10vw;
+  height:10vw;
 }
 
 /* Nav */
@@ -40,13 +40,13 @@
   display: flex;
   align-items: center;
   width: 100%;
-  height: 200px;
+  height: auto;
   background-color: ;
 }
   /* Sub-Boxes of One  */
   .one > div {
     width: 80%;
-    height: 80px;
+    height: auto;
     margin: 10%;
     border-radius: 15px;
     background-color: #272727;
@@ -57,16 +57,17 @@
   display: flex;
   align-items: center;
   width: 100%;
-  height: 21vw;
+  height: auto;
   background-color: ;
 }
   /* Sub-Boxes of Two  */
   .two > div {
-    width: 80%;
-    height: 21vw;
+    width: auto;
+    height: auto;
     margin: 10%;
-    border-radius: 1vw;
+    border-radius: 15px;
     background-color: #272727;
+    overflow:auto;
   }
 
   /* Three */
@@ -74,13 +75,13 @@
     display: flex;
     align-items: center;
     width: 100%;
-    height: 200px;
+    height: auto;
     background-color: ;
   }
     /* Sub-Boxes of Three  */
     .three > div {
       width: 80%;
-      height: 80px;
+      height: auto;
       margin: 10%;
       border-radius: 15px;
       background-color: #272727;
