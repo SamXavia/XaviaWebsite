@@ -1,0 +1,58 @@
+/* Hyperlinking */
+  /* Hyperlink Link Style */
+  a:link {
+    color: hotpink;
+    text-decoration: none;
+  }
+
+  /* Visited Hyperlink Link Style */
+  a:visited {
+    color: hotpink;
+    text-decoration: none;
+  }
+
+  /* Mouse Hovering over Hyperlink Link Style */
+  a:hover {
+    color: hotpink;
+    text-decoration: none;
+  }
+
+  /* Current Hyperlink Link Style */
+  a:active {
+    color: hotpink;
+    text-decoration: none;
+  }
+
+/* One */
+.one {
+  display: flex;
+  align-items: center;
+  width: 100%;
+  height: 200px;
+  background-color: ;
+}
+  /* Sub-Boxes of One  */
+  .one > div {
+    width: 80%;
+    height: 120px;
+    margin: 10%;
+    border-radius: 15px;
+    background-color: #272727;
+  }
+
+  /* Two */
+  .two {
+    display: flex;
+    align-items: center;
+    width: 100%;
+    height: 200px;
+    background-color: ;
+  }
+    /* Sub-Boxes of Two  */
+    .two > div {
+      width: 80%;
+      height: 120px;
+      margin: 10%;
+      border-radius: 15px;
+      background-color: #272727;
+    }
