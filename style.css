@@ -23,6 +23,12 @@
     text-decoration: none;
   }
 
+/* Bob */
+.bob {
+  width:100pt;
+  height:100pt;
+}
+
 /* One */
 .one {
   display: flex;
