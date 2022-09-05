@@ -32,7 +32,7 @@
 /* Nav */
 .nav {
   font-family:monospace;
-  font-size:2vw
+  font-size:25px
 }
 
 /* One */
@@ -62,7 +62,7 @@
 }
   /* Sub-Boxes of Two  */
   .two > div {
-    width: auto;
+    width: 80%;
     height: auto;
     margin: 10%;
     border-radius: 15px;
