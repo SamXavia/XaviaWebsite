@@ -62,6 +62,11 @@
   font-size:20pt
 }
 
+/* Image Curve */
+.image-curve {
+  border-radius: 15px;
+}
+
 /* One */
 .one {
   display: flex;
