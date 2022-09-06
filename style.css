@@ -69,10 +69,12 @@ Hey, This is all the backend of the look of Xavia (PlayProfile.net). I hope that
 
 /* Image Curve */
 .image-curve {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
   border-radius: 15px;
-  align-self: center;
-  width: 30vw;
-  height: 15vw;
+  width: 20vw;
+  height: 10vw;
 }
 
 /* One */
