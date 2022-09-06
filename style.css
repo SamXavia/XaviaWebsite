@@ -134,7 +134,9 @@ Possible Future Projects
     text-decoration: none;
   }
 
-/* One */
+/* PAGE BOXES */
+
+/* One - index.html */
 .one {
   display: flex;
   align-items: center;
@@ -151,7 +153,7 @@ Possible Future Projects
     background-color: #272727;
   }
 
-/* Two */
+/* Two - fuzecraft.html */
 .two {
   display: flex;
   align-items: center;
@@ -168,7 +170,7 @@ Possible Future Projects
     background-color: #272727;
   }
 
-  /* Three */
+  /* Three - projects.html */
   .three {
     display: flex;
     align-items: center;
