@@ -19,31 +19,6 @@ Possible Future Projects
 
 */
 
-/* Hyperlinking */
-  /* Hyperlink Link Style */
-  a:link {
-    color: hotpink;
-    text-decoration: none;
-  }
-
-  /* Visited Hyperlink Link Style */
-  a:visited {
-    color: hotpink;
-    text-decoration: none;
-  }
-
-  /* Mouse Hovering over Hyperlink Link Style */
-  a:hover {
-    color: hotpink;
-    text-decoration: none;
-  }
-
-  /* Current Hyperlink Link Style */
-  a:active {
-    color: hotpink;
-    text-decoration: none;
-  }
-
 /* Bob */
 .bob {
   width:10vw;
@@ -53,7 +28,31 @@ Possible Future Projects
 /* Nav */
 .nav {
   font-family:monospace;
-  font-size:25px
+  font-size:25px;
+  /* Hyperlinking */
+    /* Hyperlink Link Style */
+    a:link {
+      color: hotpink;
+      text-decoration: none;
+    }
+
+    /* Visited Hyperlink Link Style */
+    a:visited {
+      color: hotpink;
+      text-decoration: none;
+    }
+
+    /* Mouse Hovering over Hyperlink Link Style */
+    a:hover {
+      color: hotpink;
+      text-decoration: none;
+    }
+
+    /* Current Hyperlink Link Style */
+    a:active {
+      color: hotpink;
+      text-decoration: none;
+    }
 }
 
 /* Body */
