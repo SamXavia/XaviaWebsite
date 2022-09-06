@@ -107,7 +107,7 @@ Possible Future Projects
   transform: translate(-50%, -50%);
   font-family:monospace;
   font-size:2.5vw;
-  dont-weight: bold;
+  font-weight: bold;
   /* Hyperlinking */
     /* Hyperlink Link Style */
     a:link {
