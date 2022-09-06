@@ -36,13 +36,13 @@
 }
 
 /* Body */
-.body {
+.body-one {
   color:#FFFFFF;
   background-color: #000000;
 }
 
 /* text */
-.text {
+.text-one {
   margin: 10px;
   font-family:monospace;
   font-size:12.5pt
