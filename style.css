@@ -111,25 +111,25 @@ Possible Future Projects
   /* Hyperlinking */
     /* Hyperlink Link Style */
     a:link {
-      color: #000000;
+      color: #FFFFFF;
       text-decoration: none;
     }
 
     /* Visited Hyperlink Link Style */
     a:visited {
-      color: #000000;
+      color: #FFFFFF;
       text-decoration: none;
     }
 
     /* Mouse Hovering over Hyperlink Link Style */
     a:hover {
-      color: color: #000000;;
+      color: color: #FFFFFF;
       text-decoration: none;
     }
 
     /* Current Hyperlink Link Style */
     a:active {
-      color: color: #000000;;
+      color: color: #FFFFFF;
       text-decoration: none;
     }
 }
