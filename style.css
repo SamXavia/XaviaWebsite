@@ -15,9 +15,32 @@ Possible Future Projects
  - Video Editing Service (Adobe Premiere Pro)
  - Website Development (HTML, CSS [Static Websites])
 
- ---
+ --- /*
 
-*/
+/* Hyperlinking */
+  /* Hyperlink Link Style */
+  a:link {
+    color: hotpink;
+    text-decoration: none;
+  }
+
+  /* Visited Hyperlink Link Style */
+  a:visited {
+    color: hotpink;
+    text-decoration: none;
+  }
+
+  /* Mouse Hovering over Hyperlink Link Style */
+  a:hover {
+    color: hotpink;
+    text-decoration: none;
+  }
+
+  /* Current Hyperlink Link Style */
+  a:active {
+    color: hotpink;
+    text-decoration: none;
+  }
 
 /* Bob */
 .bob {
@@ -29,30 +52,6 @@ Possible Future Projects
 .nav {
   font-family:monospace;
   font-size:25px;
-  /* Hyperlinking */
-    /* Hyperlink Link Style */
-    a:link {
-      color: hotpink;
-      text-decoration: none;
-    }
-
-    /* Visited Hyperlink Link Style */
-    a:visited {
-      color: hotpink;
-      text-decoration: none;
-    }
-
-    /* Mouse Hovering over Hyperlink Link Style */
-    a:hover {
-      color: hotpink;
-      text-decoration: none;
-    }
-
-    /* Current Hyperlink Link Style */
-    a:active {
-      color: hotpink;
-      text-decoration: none;
-    }
 }
 
 /* Body */
@@ -108,31 +107,32 @@ Possible Future Projects
   font-size:2.5vw;
   font-weight: bold;
   font-color: #FFFFFF;
-  /* Hyperlinking */
-    /* Hyperlink Link Style */
-    a:link {
-      color: #FFFFFF;
-      text-decoration: none;
-    }
-
-    /* Visited Hyperlink Link Style */
-    a:visited {
-      color: #FFFFFF;
-      text-decoration: none;
-    }
-
-    /* Mouse Hovering over Hyperlink Link Style */
-    a:hover {
-      color: color: #FFFFFF;
-      text-decoration: none;
-    }
-
-    /* Current Hyperlink Link Style */
-    a:active {
-      color: color: #FFFFFF;
-      text-decoration: none;
-    }
 }
+
+/* Hyperlinking - Image Curve Text */
+  /* Hyperlink Link Style */
+  div#ictl a:link {
+    color: hotpink;
+    text-decoration: none;
+  }
+
+  /* Visited Hyperlink Link Style */
+  div#ictl a:visited {
+    color: hotpink;
+    text-decoration: none;
+  }
+
+  /* Mouse Hovering over Hyperlink Link Style */
+  div#ictl a:hover {
+    color: hotpink;
+    text-decoration: none;
+  }
+
+  /* Current Hyperlink Link Style */
+  div#ictl a:active {
+    color: hotpink;
+    text-decoration: none;
+  }
 
 /* One */
 .one {
