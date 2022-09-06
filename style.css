@@ -70,7 +70,7 @@ Hey, This is all the backend of the look of Xavia (PlayProfile.net). I hope that
 /* Image Curve */
 .image-curve {
   border-radius: 15px;
-  align-items: center;
+  align-self: center;
   width: 30vw;
   height: 15vw;
 }
