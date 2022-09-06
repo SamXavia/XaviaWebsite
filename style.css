@@ -67,14 +67,19 @@ Hey, This is all the backend of the look of Xavia (PlayProfile.net). I hope that
   font-size:20pt
 }
 
-/* Image Curve */
-.image-curve {
+/* Image Box */
+.image-box {
   display: block;
   margin-left: auto;
   margin-right: auto;
-  border-radius: 15px;
   width: 25vw;
   height: 12.5vw;
+}
+
+/* Image Curve */
+.image-curve {
+  border-radius: 15px;
+  width: 100%;
 }
 
 /* Image Curve Text */
