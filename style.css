@@ -35,6 +35,33 @@
   font-size:25px
 }
 
+/* Body */
+.body {
+  color:#FFFFFF;
+  background-color: #000000;
+}
+
+/* text */
+.text {
+  margin: 10px;
+  font-family:monospace;
+  font-size:12.5pt
+}
+
+/* subheader */
+.subheader {
+  margin: 10pt;
+  font-family:monospace;
+  font-size:15pt
+}
+
+/* subheader-two */
+.subheader-two {
+  margin: 10pt;
+  font-family:monospace;
+  font-size:20pt
+}
+
 /* One */
 .one {
   display: flex;
