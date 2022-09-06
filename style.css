@@ -69,6 +69,7 @@ Hey, This is all the backend of the look of Xavia (PlayProfile.net). I hope that
 
 /* Image Box */
 .image-box {
+  position: relative;
   display: block;
   margin-left: auto;
   margin-right: auto;
