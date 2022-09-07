@@ -111,6 +111,19 @@ Possible Future Projects
   float: left;
 }
 
+/* Image Box */
+.image-box-two {
+  position: relative;
+  margin-top: 2.5% ;
+  margin-bottom: 1% ;
+  margin-left: auto;
+  margin-right: auto;
+  width: 32%;
+  height: 18%;
+  text-align: center;
+  float: center;
+}
+
 /* Image Curve */
 .image-curve {
   border-radius: 15px;
