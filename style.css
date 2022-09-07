@@ -16,6 +16,7 @@ Possible Future Projects
  - Website Development (HTML, CSS [Static Websites])
  - Blog (Medium, RSS Feed)
  - Podcast (RSS Feed)
+ - Game Development
 
  --- /*
 
@@ -82,6 +83,13 @@ Possible Future Projects
   font-family:monospace;
   font-size:20pt
 }
+
+/* Icon */
+.icon {
+  width:3.5vw;
+  height:3.5vw;
+}
+
 /* Image Box */
 .image-box {
   position: relative;
