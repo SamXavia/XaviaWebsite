@@ -173,3 +173,20 @@ Possible Future Projects
       border-radius: 15px;
       background-color: #272727;
     }
+
+    /* Four - video-edting.html */
+    .four {
+      display: flex;
+      align-items: center;
+      width: 100%;
+      height: auto;
+      background-color: ;
+    }
+      /* Sub-Boxes of Four  */
+      .four > div {
+        width: 80%;
+        height: auto;
+        margin: 10%;
+        border-radius: 15px;
+        background-color: #272727;
+      }
