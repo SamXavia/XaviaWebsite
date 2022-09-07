@@ -70,6 +70,13 @@ Possible Future Projects
   font-size:12.5pt
 }
 
+/* header */
+.header {
+  text-align: center;
+  font-family:monospace;
+  font-size:50pt
+}
+
 /* subheader */
 .subheader {
   margin: 10pt;
@@ -135,7 +142,7 @@ Possible Future Projects
   .one > div {
     width: 80%;
     height: auto;
-    margin: 10%;
+    margin: auto;
     border-radius: 15px;
     background-color: #272727;
   }
@@ -152,7 +159,7 @@ Possible Future Projects
   .two > div {
     width: 80%;
     height: auto;
-    margin: 10%;
+    margin: auto;
     border-radius: 15px;
     background-color: #272727;
   }
@@ -169,7 +176,7 @@ Possible Future Projects
     .three > div {
       width: 80%;
       height: auto;
-      margin: 10%;
+      margin: auto;
       border-radius: 15px;
       background-color: #272727;
     }
@@ -186,7 +193,7 @@ Possible Future Projects
       .four > div {
         width: 80%;
         height: auto;
-        margin: 10%;
+        margin: auto;
         border-radius: 15px;
         background-color: #272727;
       }
