@@ -17,6 +17,8 @@ Possible Future Projects
 
  --- /*
 
+
+
 /* Bob */
 .bob {
   width:10vw;
@@ -86,25 +88,25 @@ Possible Future Projects
 
 /* Hyperlinking - Image Curve Text */
   /* Hyperlink Link Style */
-  div#ictl a:link {
+  image-curve-text#ictl a:link {
     color: hotpink;
     text-decoration: none;
   }
 
   /* Visited Hyperlink Link Style */
-  div#ictl a:visited {
+  image-curve-text#ictl a:visited {
     color: hotpink;
     text-decoration: none;
   }
 
   /* Mouse Hovering over Hyperlink Link Style */
-  div#ictl a:hover {
+  image-curve-text#ictl a:hover {
     color: hotpink;
     text-decoration: none;
   }
 
   /* Current Hyperlink Link Style */
-  div#ictl a:active {
+  image-curve-text#ictl a:active {
     color: hotpink;
     text-decoration: none;
   }
