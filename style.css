@@ -17,7 +17,30 @@ Possible Future Projects
 
  --- /*
 
+ /* Hyperlinking */
+   /* Hyperlink Link Style */
+   a:link {
+     color: hotpink;
+     text-decoration: none;
+   }
 
+   /* Visited Hyperlink Link Style */
+   a:visited {
+     color: hotpink;
+     text-decoration: none;
+   }
+
+   /* Mouse Hovering over Hyperlink Link Style */
+   a:hover {
+     color: hotpink;
+     text-decoration: none;
+   }
+
+   /* Current Hyperlink Link Style */
+   a:active {
+     color: hotpink;
+     text-decoration: none;
+   }
 
 /* Bob */
 .bob {
@@ -74,41 +97,61 @@ Possible Future Projects
   width: 100%;
 }
 
-/* Image Curve Text */
-.image-curve-text {
-  position: absolute;
-  top: 50%;
-  left: 50%;
-  transform: translate(-50%, -50%);
-  font-family:monospace;
-  font-size:2.5vw;
-  font-weight: bold;
-  font-color: #FFFFFF;
-}
-
 /* Hyperlinking - Image Curve Text */
   /* Hyperlink Link Style */
   image-curve-text#ictl a:link {
     color: hotpink;
     text-decoration: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family:monospace;
+    font-size:2.5vw;
+    font-weight: bold;
+    font-color: #FFFFFF;
   }
 
   /* Visited Hyperlink Link Style */
   image-curve-text#ictl a:visited {
     color: hotpink;
     text-decoration: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family:monospace;
+    font-size:2.5vw;
+    font-weight: bold;
+    font-color: #FFFFFF;
   }
 
   /* Mouse Hovering over Hyperlink Link Style */
   image-curve-text#ictl a:hover {
     color: hotpink;
     text-decoration: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family:monospace;
+    font-size:2.5vw;
+    font-weight: bold;
+    font-color: #FFFFFF;
   }
 
   /* Current Hyperlink Link Style */
   image-curve-text#ictl a:active {
     color: hotpink;
     text-decoration: none;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    font-family:monospace;
+    font-size:2.5vw;
+    font-weight: bold;
+    font-color: #FFFFFF;
   }
 
 /* PAGE BOXES */
