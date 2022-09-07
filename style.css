@@ -82,15 +82,17 @@ Possible Future Projects
   font-family:monospace;
   font-size:20pt
 }
-
 /* Image Box */
 .image-box {
   position: relative;
-  margin-left: auto;
+  margin-top: 2.5% ;
+  margin-bottom: 1% ;
+  margin-left: 11.5%;
   margin-right: auto;
-  width: 25vw;
-  height: 12.5vw;
+  width: 32%;
+  height: 18%;
   text-align: center;
+  float: left;
 }
 
 /* Image Curve */
