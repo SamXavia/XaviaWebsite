@@ -14,10 +14,7 @@ Sitemap:
 
 ---
 
-Possible Future Projects
- - Website Development (HTML, CSS [Static Websites])
- - Podcast (RSS Feed)
- - Game Development
+ Roadmap: https://trello.com/b/4OlI20HM/xavia-roadmap
 
  --- /*
 
@@ -169,6 +166,15 @@ Possible Future Projects
 .hovertext:hover:before {
   opacity: 1;
   visibility: visible;
+}
+
+/* Footer */
+.footer {
+  color: hotpink;
+  text-decoration: none;
+  font-family:monospace;
+  font-size:0.75vw;
+  text-align: center;
 }
 
 /* PAGE BOXES */
