@@ -140,6 +140,11 @@ Sitemap:
   color: #FFFFFF;
 }
 
+/* Video Player */
+.video-player {
+  border-radius: 15px;
+}
+
 /* Blog Hover Text */
 .hovertext {
   position: relative;
