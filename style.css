@@ -21,13 +21,7 @@ Sitemap:
 
  /* Hyperlinking */
    /* Hyperlink Link Style */
-   a:link {
-     color: #FF69B4;
-     text-decoration: none;
-   }
-
-   /* Visited Hyperlink Link Style */
-   a:visited {
+   a:link, a:visited, a:active {
      color: #FF69B4;
      text-decoration: none;
    }
@@ -35,12 +29,6 @@ Sitemap:
    /* Mouse Hovering over Hyperlink Link Style */
    a:hover {
      color: #1eb1a8;
-     text-decoration: none;
-   }
-
-   /* Current Hyperlink Link Style */
-   a:active {
-     color: #FF69B4;
      text-decoration: none;
    }
 
