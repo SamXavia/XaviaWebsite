@@ -84,6 +84,15 @@ Sitemap:
   font-size:20pt
 }
 
+/* Header for Name */
+.header-name {
+  text-align: center;
+  font-family:monospace;
+  font-size:50pt;
+  text-decoration: bold;
+  font-size: 100px;
+}
+
 /* Icon */
 .icon {
   width:3.5vw;
