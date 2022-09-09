@@ -181,8 +181,9 @@ PAGE BASIC BOXES
 > Four - video-editing.html
 > Five - blog.html
 > Six - video-edit/[#].html
+> Seven - name/[#].html
 */
-.one, .two, .three, .four, .five, .six {
+.one, .two, .three, .four, .five, .six, .seven {
   display: flex;
   align-items: center;
   width: 100%;
@@ -197,10 +198,11 @@ PAGE SUB BOXES
 > Three - projects.html
 > Four - video-editing.html
 > Five - blog.html
-> Six - video-edit/[#].html
+> Six - video-edit/vi[#].html
+> Seven - name/nm[#].html
 */
   /* Sub-Boxes of One - index.html  */
-  .one > div, .two > div, .three > div, .four > div, .five > div, .six > div {
+  .one > div, .two > div, .three > div, .four > div, .five > div, .six > div, .seven > div {
     width: 80%;
     height: auto;
     margin: auto;
