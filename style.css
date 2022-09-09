@@ -99,6 +99,12 @@ Sitemap:
   height:3.5vw;
 }
 
+/* Social-Media Icons */
+.social-icon {
+  width:2vw;
+  height:2vw;
+}
+
 /* Image Box */
 .image-box {
   position: relative;
