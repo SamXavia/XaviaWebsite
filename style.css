@@ -9,7 +9,7 @@ Sitemap:
     fuzecraft.html | Fuzecraft Page (Minecraft Server)
       map.html | Fuzecraft Map Redirect (Minecraft Fuzecraft Map)
     video-editing.html | Video Editing Service Page
-      ~ video-edit/template.html | Video Edit Pages
+      video-edit/[#].html | Video Edit Pages
     ~ discord.html | Information about the Discord Server (Current not it's own page)
     blog.html | Blog page
 
@@ -22,13 +22,13 @@ Sitemap:
  /* Hyperlinking */
    /* Hyperlink Link Style */
    a:link {
-     color: hotpink;
+     color: #FF69B4;
      text-decoration: none;
    }
 
    /* Visited Hyperlink Link Style */
    a:visited {
-     color: hotpink;
+     color: #FF69B4;
      text-decoration: none;
    }
 
@@ -40,7 +40,7 @@ Sitemap:
 
    /* Current Hyperlink Link Style */
    a:active {
-     color: hotpink;
+     color: #FF69B4;
      text-decoration: none;
    }
 
@@ -178,7 +178,7 @@ Sitemap:
 
 /* Footer */
 .footer {
-  color: hotpink;
+  color: #FF69B4;
   text-decoration: none;
   font-family:monospace;
   font-size:0.75vw;
