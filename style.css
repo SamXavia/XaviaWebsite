@@ -34,7 +34,7 @@ Sitemap:
 
    /* Mouse Hovering over Hyperlink Link Style */
    a:hover {
-     color: hotpink;
+     color: #1eb1a8;
      text-decoration: none;
    }
 
@@ -126,6 +126,7 @@ Sitemap:
 .image-curve {
   border-radius: 15px;
   width: 100%;
+  filter: drop-shadow(15px 10px 2px #111111)
 }
 
 /* Image Curve Text */
@@ -143,6 +144,7 @@ Sitemap:
 /* Video Player */
 .video-player {
   border-radius: 15px;
+  filter: drop-shadow(15px 10px 2px #111111)
 }
 
 /* Blog Hover Text */
