@@ -173,72 +173,37 @@ Sitemap:
   text-align: center;
 }
 
-/* PAGE BOXES */
-
-/* One - index.html */
-.one {
+/*
+PAGE BASIC BOXES
+> One = index.html
+> Two - fuzecraft.html
+> Three - projects.html
+> Four - video-editing.html
+> Five - blog.html
+> Six - video-edit/[#].html
+*/
+.one, .two, .three, .four, .five, .six {
   display: flex;
   align-items: center;
   width: 100%;
   height: auto;
   background-color: ;
 }
-  /* Sub-Boxes of One  */
-  .one > div {
+
+/*
+PAGE SUB BOXES
+> One = index.html
+> Two - fuzecraft.html
+> Three - projects.html
+> Four - video-editing.html
+> Five - blog.html
+> Six - video-edit/[#].html
+*/
+  /* Sub-Boxes of One - index.html  */
+  .one > div, .two > div, .three > div, .four > div, .five > div, .six > div {
     width: 80%;
     height: auto;
     margin: auto;
     border-radius: 15px;
     background-color: #272727;
   }
-
-/* Two - fuzecraft.html */
-.two {
-  display: flex;
-  align-items: center;
-  width: 100%;
-  height: auto;
-  background-color: ;
-}
-  /* Sub-Boxes of Two  */
-  .two > div {
-    width: 80%;
-    height: auto;
-    margin: auto;
-    border-radius: 15px;
-    background-color: #272727;
-  }
-
-  /* Three - projects.html */
-  .three {
-    display: flex;
-    align-items: center;
-    width: 100%;
-    height: auto;
-    background-color: ;
-  }
-    /* Sub-Boxes of Three  */
-    .three > div {
-      width: 80%;
-      height: auto;
-      margin: auto;
-      border-radius: 15px;
-      background-color: #272727;
-    }
-
-    /* Four - video-edting.html */
-    .four {
-      display: flex;
-      align-items: center;
-      width: 100%;
-      height: auto;
-      background-color: ;
-    }
-      /* Sub-Boxes of Four  */
-      .four > div {
-        width: 80%;
-        height: auto;
-        margin: auto;
-        border-radius: 15px;
-        background-color: #272727;
-      }
