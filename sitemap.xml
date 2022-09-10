@@ -9,57 +9,72 @@
 
 <url>
   <loc>https://playprofile.net/</loc>
-  <lastmod>2022-09-10T01:52:17+00:00</lastmod>
+  <lastmod>2022-09-10T09:59:34+00:00</lastmod>
   <priority>1.00</priority>
 </url>
 <url>
   <loc>https://playprofile.net/projects</loc>
-  <lastmod>2022-09-10T01:52:17+00:00</lastmod>
+  <lastmod>2022-09-10T09:59:34+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://playprofile.net/project/fuzecraft</loc>
-  <lastmod>2022-09-10T01:52:17+00:00</lastmod>
+  <lastmod>2022-09-10T09:59:34+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://playprofile.net/name/nm1</loc>
-  <lastmod>2022-09-10T01:52:17+00:00</lastmod>
+  <lastmod>2022-09-10T09:59:34+00:00</lastmod>
   <priority>0.80</priority>
 </url>
 <url>
   <loc>https://playprofile.net/project/video-editing</loc>
-  <lastmod>2022-09-10T01:52:17+00:00</lastmod>
+  <lastmod>2022-09-10T09:59:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://playprofile.net/project/blog</loc>
-  <lastmod>2022-09-10T01:52:17+00:00</lastmod>
+  <lastmod>2022-09-10T09:59:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://playprofile.net/project/fuzecraft/map</loc>
-  <lastmod>2022-09-10T01:52:17+00:00</lastmod>
+  <lastmod>2022-09-10T09:59:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://playprofile.net/name/nm2</loc>
-  <lastmod>2022-09-10T01:52:17+00:00</lastmod>
+  <lastmod>2022-09-10T09:59:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://playprofile.net/name/nm3</loc>
-  <lastmod>2022-09-10T01:52:17+00:00</lastmod>
+  <lastmod>2022-09-10T09:59:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://playprofile.net/name/nm4</loc>
-  <lastmod>2022-09-10T01:52:17+00:00</lastmod>
+  <lastmod>2022-09-10T09:59:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://playprofile.net/name/nm5</loc>
+  <lastmod>2022-09-10T09:59:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://playprofile.net/name/nm6</loc>
+  <lastmod>2022-09-10T09:59:34+00:00</lastmod>
+  <priority>0.64</priority>
+</url>
+<url>
+  <loc>https://playprofile.net/name/nm7</loc>
+  <lastmod>2022-09-10T09:59:34+00:00</lastmod>
   <priority>0.64</priority>
 </url>
 <url>
   <loc>https://playprofile.net/video/vi1</loc>
-  <lastmod>2022-09-10T01:52:17+00:00</lastmod>
+  <lastmod>2022-09-10T09:59:34+00:00</lastmod>
   <priority>0.51</priority>
 </url>
 
