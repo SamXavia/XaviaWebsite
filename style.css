@@ -198,6 +198,12 @@ Sitemap:
   visibility: visible;
 }
 
+.fuzemap-icon {
+  width:3.5vw;
+  height:3.5vw;
+  filter: invert(100%)
+}
+
 /* Fuzemap */
 .fuzemap {
   position:absolute;
