@@ -9,9 +9,11 @@ Sitemap:
     fuzecraft.html | Fuzecraft Page (Minecraft Server)
       map.html | Fuzecraft Map Redirect (Minecraft Fuzecraft Map)
     video-editing.html | Video Editing Service Page
-      video-edit/[#].html | Video Edit Pages
-    ~ discord.html | Information about the Discord Server (Current not it's own page)
+    ~discord.html | Information about the Discord Server (Current not it's own page)
     blog.html | Blog page
+
+  name/nm[#] | People
+  video/vi[#].html | Video Edit Pages
 
 ---
 
