@@ -5,14 +5,20 @@ Hey, This is all the backend of the look of Xavia (PlayProfile.net). I hope that
 
 Sitemap:
   index.html | Homepage
+
   projects.html | Projects Page
-    fuzecraft.html | Fuzecraft Page (Minecraft Server)
-      map.html | Fuzecraft Map Redirect (Minecraft Fuzecraft Map)
-    video-editing.html | Video Editing Service Page
-    ~discord.html | Information about the Discord Server (Current not it's own page)
-    blog.html | Blog page
+
+    project/fuzecraft.html | Fuzecraft Page (Minecraft Server)
+      project/fuzecraft/map.html | Fuzecraft Map Redirect (Minecraft Fuzecraft Map)
+
+    project/video-editing.html | Video Editing Service Page
+
+    ~project/discord.html | Information about the Discord Server (Current not it's own page)
+
+    project/blog.html | Blog page
 
   name/nm[#] | People
+  
   video/vi[#].html | Video Edit Pages
 
 ---
@@ -33,7 +39,7 @@ People:
     Social Media - Instagram
 
   name/nm6.html | Lollipop
-  
+
   name/nm7.html | TailoredEnd
 
 
