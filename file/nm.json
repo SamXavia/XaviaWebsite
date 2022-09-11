@@ -6,7 +6,11 @@
       "profile-picture": "../assets/name/1.png",
       "roles": ["Founder", "Video Editor", "Creator"],
       "dob": "January 27, 2022",
-      "gender": "Female (Trans Woman)"
+      "gender": "Female (Trans Woman)",
+
+      "youtube": "https://www.youtube.com/channel/UCRbjkwg35S8EjZFe7r23d8Q",
+      "twitch": "https://www.twitch.tv/samxavia",
+      "instagram": "https://www.instagram.com/samxavia/"
     },
     {
       "nmID": "2",
@@ -14,7 +18,11 @@
       "profile-picture": "../assets/name/2.png",
       "roles": ["Fuzecraft Player"],
       "dob": "Febuary 25, 2001",
-      "gender": "Male"
+      "gender": "Male",
+
+      "youtube": "",
+      "twitch": "",
+      "instagram": ""
     },
     {
       "nmID": "3",
@@ -22,7 +30,11 @@
       "profile-picture": "../assets/name/3.png",
       "roles": ["Fuzecraft Player"],
       "dob": "2002",
-      "gender": "Non-Binary"
+      "gender": "Non-Binary",
+
+      "youtube": "",
+      "twitch": "",
+      "instagram": ""
     },
     {
       "nmID": "4",
@@ -30,7 +42,11 @@
       "profile-picture": "../assets/name/4.png",
       "roles": ["Fuzecraft Player"],
       "dob": "August 1, 2003",
-      "gender": "Genderfluid (She/They)"
+      "gender": "Genderfluid (She/They)",
+
+      "youtube": "",
+      "twitch": "",
+      "instagram": ""
     },
     {
       "nmID": "5",
@@ -38,7 +54,11 @@
       "profile-picture": "../assets/name/5.png",
       "roles": ["Fuzecraft Player"],
       "dob": "TBA",
-      "gender": "Male"
+      "gender": "Male",
+
+      "youtube": "",
+      "twitch": "",
+      "instagram": ""
     },
     {
       "nmID": "6",
@@ -46,7 +66,11 @@
       "profile-picture": "../assets/name/6.png",
       "roles": ["Fuzecraft Player"],
       "dob": "TBA",
-      "gender": "Female"
+      "gender": "Female",
+
+      "youtube": "",
+      "twitch": "",
+      "instagram": ""
     },
     {
       "nmID": "7",
@@ -54,7 +78,11 @@
       "profile-picture": "../assets/name/7.png",
       "roles": ["Fuzecraft Player"],
       "dob": "TBA",
-      "gender": "Bi-Gender (She/He)"
+      "gender": "Bi-Gender (She/He)",
+
+      "youtube": "",
+      "twitch": "",
+      "instagram": ""
     }
   ]
 }
