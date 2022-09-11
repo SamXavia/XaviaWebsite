@@ -1,0 +1,20 @@
+{
+  "name": [
+    {
+      "nmID": "1",
+      "nm": "SAMANTHA XAVIA",
+      "profile-picture": "../assets/name/1.png",
+      "roles": ["Founder", "Video Editor", "Creator"],
+      "dob": "January 27, 2022",
+      "gender": "Female (Trans Woman)"
+    },
+    {
+      "nmID": "2",
+      "nm": "FALCON CHAPTER",
+      "profile-picture": "../assets/name/1.png",
+      "roles": ["Fuzecraft Player"],
+      "dob": "Febuary 25, 2001",
+      "gender": "Male"
+    }
+  ]
+}
