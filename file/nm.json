@@ -11,10 +11,50 @@
     {
       "nmID": "2",
       "nm": "FALCON CHAPTER",
-      "profile-picture": "../assets/name/1.png",
+      "profile-picture": "../assets/name/2.png",
       "roles": ["Fuzecraft Player"],
       "dob": "Febuary 25, 2001",
       "gender": "Male"
+    },
+    {
+      "nmID": "3",
+      "nm": "AQUAVITA",
+      "profile-picture": "../assets/name/3.png",
+      "roles": ["Fuzecraft Player"],
+      "dob": "2002",
+      "gender": "Non-Binary"
+    },
+    {
+      "nmID": "4",
+      "nm": "BOUNCBALL",
+      "profile-picture": "../assets/name/4.png",
+      "roles": ["Fuzecraft Player"],
+      "dob": "August 1, 2003",
+      "gender": "Genderfluid (She/They)"
+    },
+    {
+      "nmID": "5",
+      "nm": "EVILBRAGONTHE9TH",
+      "profile-picture": "../assets/name/5.png",
+      "roles": ["Fuzecraft Player"],
+      "dob": "TBA",
+      "gender": "Male"
+    },
+    {
+      "nmID": "6",
+      "nm": "LOLLIPOP",
+      "profile-picture": "../assets/name/6.png",
+      "roles": ["Fuzecraft Player"],
+      "dob": "TBA",
+      "gender": "Female"
+    },
+    {
+      "nmID": "7",
+      "nm": "TAILOREDEND",
+      "profile-picture": "../assets/name/7.png",
+      "roles": ["Fuzecraft Player"],
+      "dob": "TBA",
+      "gender": "Bi-Gender (She/He)"
     }
   ]
 }
