@@ -10,7 +10,8 @@
 
       "youtube": "https://www.youtube.com/channel/UCRbjkwg35S8EjZFe7r23d8Q",
       "twitch": "https://www.twitch.tv/samxavia",
-      "instagram": "https://www.instagram.com/samxavia/"
+      "instagram": "https://www.instagram.com/samxavia/",
+      "only-fans": ""
     },
     {
       "nmID": "2",
@@ -22,7 +23,8 @@
 
       "youtube": "",
       "twitch": "",
-      "instagram": ""
+      "instagram": "",
+      "only-fans": ""
     },
     {
       "nmID": "3",
@@ -34,7 +36,8 @@
 
       "youtube": "https://www.youtube.com/channel/UCrzIVwOonruO0pnL37WZBKg",
       "twitch": "",
-      "instagram": ""
+      "instagram": "",
+      "only-fans": ""
     },
     {
       "nmID": "4",
@@ -46,7 +49,8 @@
 
       "youtube": "https://www.youtube.com/channel/UCege1_ZfparT-OPXp0QO-tg",
       "twitch": "https://www.twitch.tv/st_xsi",
-      "instagram": ""
+      "instagram": "",
+      "only-fans": ""
     },
     {
       "nmID": "5",
@@ -58,7 +62,8 @@
 
       "youtube": "",
       "twitch": "",
-      "instagram": "https://www.instagram.com/the_wyrms_emporium/"
+      "instagram": "https://www.instagram.com/the_wyrms_emporium/",
+      "only-fans": ""
     },
     {
       "nmID": "6",
@@ -70,7 +75,8 @@
 
       "youtube": "",
       "twitch": "",
-      "instagram": ""
+      "instagram": "",
+      "only-fans": ""
     },
     {
       "nmID": "7",
@@ -82,7 +88,8 @@
 
       "youtube": "",
       "twitch": "",
-      "instagram": ""
+      "instagram": "",
+      "only-fans": ""
     }
   ]
 }
