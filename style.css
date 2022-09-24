@@ -18,7 +18,7 @@ Sitemap:
     project/blog.html | Blog page
 
   name/nm[#] | People
-  
+
   video/vi[#].html | Video Edit Pages
 
 ---
@@ -70,6 +70,18 @@ People:
 
 /* Smaller Bob */
 .bob-small {
+  width:3vw;
+  height:3vw;
+}
+
+/* Sarah */
+.sarah {
+  width:10vw;
+  height:10vw;
+}
+
+/* Smaller Sarah */
+.sarah-small {
   width:3vw;
   height:3vw;
 }
