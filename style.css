@@ -247,6 +247,20 @@ People:
   margin-right: 0.25%;
 }
 
+/* Name Image Two */
+.name-image-two {
+  position: center;
+  border-radius: 50%;
+  width:10%;
+  height:10%;
+  margin-left: 0.05%;
+  margin-right: 0.05%;
+  margin-top: 1% ;
+  margin-bottom: 0.5% ;
+  text-align: center;
+  float: ;
+}
+
 /* Blog Hover Text */
 .hovertext {
   position: relative;
