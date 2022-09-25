@@ -98,6 +98,18 @@ People:
   height:3vw;
 }
 
+/* Emma */
+.emma {
+  width:10vw;
+  height:10vw;
+}
+
+/* Smaller Emma */
+.emma-small {
+  width:3vw;
+  height:3vw;
+}
+
 /* project logo */
 .project-logo {
   width:10vw;
