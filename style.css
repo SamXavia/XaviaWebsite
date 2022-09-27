@@ -251,14 +251,15 @@ People:
 .name-image-two {
   position: center;
   border-radius: 50%;
-  width:10%;
-  height:10%;
+  width:5%;
+  height:5%;
   margin-left: 0.05%;
   margin-right: 0.05%;
   margin-top: 1% ;
   margin-bottom: 0.5% ;
   text-align: center;
   float: ;
+  vertical-align: middle;
 }
 
 /* Blog Hover Text */
